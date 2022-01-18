@@ -26,13 +26,13 @@ class Patreons extends StatelessWidget {
                     url: "https://pub.dev/packages/flutter_facebook_auth",
                   ),
                   Image.network(
-                    "https://img.shields.io/github/last-commit/the-meedu-app/flutter-facebook-auth?color=%23ffa000&style=flat-square",
+                    "https://img.shields.io/github/last-commit/the-meedu-app/flutter_facebook_auth?color=%23ffa000&style=flat-square",
                   ),
                   Image.network(
-                    "https://img.shields.io/github/license/the-meedu-app/flutter-facebook-auth?style=flat-square",
+                    "https://img.shields.io/github/license/the-meedu-app/flutter_facebook_auth?style=flat-square",
                   ),
                   Image.network(
-                    "https://img.shields.io/github/stars/the-meedu-app/flutter-facebook-auth?style=social",
+                    "https://img.shields.io/github/stars/the-meedu-app/flutter_facebook_auth?style=social",
                   ),
                 ],
               ),

@@ -37,7 +37,7 @@ class SplashPage extends StatelessWidget {
                 angle: 45 * math.pi / 180,
                 child: InkWell(
                   onTap: () async {
-                    final url = "https://github.com/darwin-morocho/flutter-facebook-auth";
+                    final url = "https://github.com/darwin-morocho/flutter_facebook_auth";
                     if (await canLaunch(url)) {
                       launch(url);
                     }
